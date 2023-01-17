@@ -1,0 +1,65 @@
+<h3>Shortcode [alihot] Description</h3>
+<table class="faq-table">
+	<thead>
+		<tr>
+			<th>Param</th>
+			<th>Default value</th>
+			<th>Description</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr><td colspan="3" align="center"><strong>API URL params</strong></td></tr>
+		<tr>
+			<td><strong>keywords</strong></td>
+			<td>teclast</td>
+			<td>Multivalue (comma separated)</td>
+		</tr>
+		<tr>
+			<td><strong>cat</strong></td>
+			<td>200216607</td>
+			<td>AliExpress categories IDs.<br>Multivalue (comma separated)</td>
+		</tr>
+		<tr>
+			<td><strong>page_items_count</strong></td>
+			<td>40</td>
+			<td>Max value = 40, Min value = 1.<br>This param for API calling request.<br>Not for displaing items in WP page/post</td>
+		</tr>
+		<tr>
+			<td><strong>page_start</strong></td>
+			<td>1</td>
+			<td>Start page number</td>
+		</tr>
+
+		<tr><td colspan="3" align="center"><strong>Filtering params</strong></td></tr>
+		<tr>
+			<td><strong>minprice</strong></td>
+			<td>30</td>
+			<td>Minimum item parice value.</td>
+		</tr>
+		<tr>
+			<td><strong>negkw</strong></td>
+			<td><em>null</em></td>
+			<td>Multivalue (comma separated)</td>
+		</tr>
+		<tr>
+			<td><strong>minscore</strong></td>
+			<td>4</td>
+			<td>Max value = 5, Min value = 0.</td>
+		</tr>
+
+		<tr><td colspan="3" align="center"><strong>Displaying items params</strong></td></tr>
+		<tr>
+			<td><strong>count</strong></td>
+			<td>10</td>
+			<td>Max value = 100, Min value = 1.<br>This param for displaing items in WP page/post and e.t.c.</td>
+		</tr>
+	</tbody>
+</table>
+<div class="faq-examples">
+	<p><span style="font-size: 16pt;"><strong>Examples</strong></span></p>
+	<p>With default params</p>
+	<p><input readonly="readonly" value='[alihot keywords="teclast" cat="200216607" minprice="30" negkw="" minscore="4" count="10"]' type="text"></p>
+	<p>With multivalue params</p>
+	<p><input readonly="readonly" value='[alihot keywords="teclast,other" cat="200216607,200217801" minprice="20" negkw="windows,linux" minscore="3" count="15"]' type="text"></p>
+</div>
+

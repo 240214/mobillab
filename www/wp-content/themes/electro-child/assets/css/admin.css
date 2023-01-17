@@ -1,0 +1,84 @@
+*:focus,
+*:active {outline: 0 none !important; box-shadow:none !important;}
+.column-featured-image {width: 58px;}
+.column-featured-image img {max-width: 50px; max-height: 50px; width: auto; height: auto;}
+.date-row {border-bottom: 1px solid #eee; padding: 0 3px 1px 3px;}
+.date-row:last-child {border: 0;}
+.date-row:hover {background-color: #eee;}
+.acf-repeater .acf-table tr:nth-child(1n) td {background-color: #fff6f6;}
+.acf-repeater .acf-table tr:nth-child(2n) td {background-color: #fafff6;}
+.acf-checkbox-list .acf-checkbox-custom + input {width: 90% !important;}
+/*.acf-gallery {height: 190px;}*/
+
+.wp-admin select {border-color: #ddd;}
+input[type="text"],
+input[type="password"],
+input[type="color"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="email"],
+input[type="month"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+input[type="week"],
+select,
+textarea,
+input[type="checkbox"],
+input[type="radio"] {border: 1px solid #ddd;}
+
+.storeclosing_admintable input[type="text"],
+.storeclosing_admintable input[type="password"],
+.storeclosing_admintable input[type="date"],
+.storeclosing_admintable input[type="datetime"],
+.storeclosing_admintable input[type="datetime-local"],
+.storeclosing_admintable input[type="email"],
+.storeclosing_admintable input[type="month"],
+.storeclosing_admintable input[type="number"],
+.storeclosing_admintable input[type="search"],
+.storeclosing_admintable input[type="tel"],
+.storeclosing_admintable input[type="time"],
+.storeclosing_admintable input[type="url"],
+.storeclosing_admintable input[type="week"] {padding: 0 3px;}
+
+.tablenav .actions select {max-width: none;}
+
+.type-product td,
+.type-product th {border-bottom: 1px solid #ddd;}
+.type-product.status-draft {background-color: #ff617e !important;}
+.type-product.status-pending {background-color: #66d1ff !important;}
+.striped > tbody > :nth-child(2n+1),
+ul.striped > :nth-child(2n+1), .alternate {background-color: #eee;}
+table.wp-list-table .type-product.status-draft .row-actions,
+table.wp-list-table .type-product.status-draft .column-name .post-state,
+table.wp-list-table .type-product.status-draft .column-price,
+table.wp-list-table .type-product.status-draft .column-is_in_stock,
+table.wp-list-table .type-product.status-draft .column-sku {color: #fff;}
+.type-product.status-publish {/*background-color: #efffe9 !important;*/}
+
+.post-type-product table.wp-list-table tr .column-name {width: 100%;}
+.post-type-product table.wp-list-table .column-sku {width: 85px;}
+.post-type-product table.wp-list-table .column-product-code {width: 140px;}
+.post-type-product table.wp-list-table .column-is_in_stock {width: 100px;}
+.post-type-product table.wp-list-table .column-taxonomy-suppliers,
+.post-type-product table.wp-list-table .column-product_cat,
+.post-type-product table.wp-list-table .column-product_tag {width: 100px !important;}
+.post-type-product .type-product td.column-name strong .row-title {font-weight: normal; color: #000; font-size: 12px !important;}
+.post-type-product table.wp-list-table .column-price .woocommerce-Price-currencySymbol {display: none;}
+
+.select2-container.select2-container--default,
+.yoast-field-group__select select,
+.yoast-field-group select {min-height: auto !important; box-shadow: none !important; border-radius: 4px; border: 1px solid #ddd !important;}
+.select2-container .select2-selection--single {
+	height: auto !important;
+	border: 0 !important;
+	background: none !important;
+	margin: 0 !important;
+	border-radius: 0 !important;
+	min-height: auto !important;
+}
+
+.fixed .column-date-modified {width: 10%;}

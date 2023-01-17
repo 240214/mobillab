@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /wp-admin/
+Disallow: /wp-db/
+Disallow: /wp-logs/
+Disallow: /wp-includes/
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+sitemap: https://mobillab.ru/sitemap_index.xml
+Host: mobillab.ru

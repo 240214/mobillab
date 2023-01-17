@@ -1,0 +1,300 @@
+# Translation of Stable (latest release) in Russian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-02 02:08+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.3\n"
+"Project-Id-Version: Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Armen <armen@digidez.com>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+
+msgid "WC Pinloader"
+msgstr "Прайсы"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Upload prices"
+msgstr "Загрузка прайсов"
+
+msgid "Suppliers"
+msgstr "Поставщики"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Shortcode"
+msgstr "Шорткод"
+
+msgid "Cache time"
+msgstr "Время кеша файлов"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Col Code"
+msgstr "Код"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Col name"
+msgstr "Название"
+
+msgid "Col price"
+msgstr "Цена"
+
+msgid "Col status"
+msgstr "Статус"
+
+msgid "Col coefficient"
+msgstr "Коэффициент"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Supplier"
+msgstr "Поставщик"
+
+msgid "Product"
+msgstr "Товар"
+
+msgid "Sku suffix"
+msgstr "Артикул постфикс"
+
+msgid "TID"
+msgstr "Term ID"
+
+msgid "SID"
+msgstr "Supplier ID"
+
+msgid "You do not have any suppliers.<br>Click the button 'Add new supplier' to add the first supplier."
+msgstr "Список поставщиков пуст.<br>Воспользуйтесь кнопкой 'Добавить поставщика'."
+
+msgid "Add new supplier"
+msgstr "Добавить поставщика"
+
+msgid "Sending request..."
+msgstr "Отправка запроса..."
+
+msgid "Data saved successfully"
+msgstr "Данные успешно сохранены"
+
+msgid "- Select supplier -"
+msgstr "- Выберите поставщика -"
+
+msgid "- Ordering -"
+msgstr "- Сортировка -"
+
+msgid "Check data"
+msgstr "Проверьте данные"
+
+msgid "Check supplier price list"
+msgstr "Проверьте прайс-лист поставщика"
+
+msgid "Upload data"
+msgstr "Загрузить данные"
+
+msgid "File uploaded successfully"
+msgstr "Файл загружен успешно"
+
+msgid "File upload error"
+msgstr "Ошибка загрузки файла"
+
+msgid "Display table"
+msgstr "Раскрыть таблицу"
+
+msgid "New products"
+msgstr "Новые товары"
+
+msgid "Price ranges"
+msgstr "Диапазоны"
+
+msgid "Price diff"
+msgstr "Изменение цены"
+
+msgid "Add to shop"
+msgstr "Добавить в магазин"
+
+msgid "Edit product"
+msgstr "Редактировать товар"
+
+msgid "Search in Yandex"
+msgstr "Найти в Яндексе"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Igonre"
+msgstr "Игнорировать"
+
+msgid "Restore"
+msgstr "Восстановить"
+
+msgid "Restore selected"
+msgstr "Восстановить отмеченные"
+
+msgid "Duplicate product"
+msgstr "Дублировать"
+
+msgid "Igonre selected"
+msgstr "Игнорировать отмеченные"
+
+msgid "Add selected"
+msgstr "Добавить отмеченные"
+
+msgid "This product is already in DB"
+msgstr "Этот товар уже в БД"
+
+msgid "Products without suppliers"
+msgstr "Товары без поставщиков"
+
+msgid "Products to turn off"
+msgstr "Товары на выключение"
+
+msgid "Products to turn on"
+msgstr "Товары на включение"
+
+msgid "Ignored products"
+msgstr "Игнорированные товары"
+
+msgid "Switch On"
+msgstr "Включить"
+
+msgid "Switch Off"
+msgstr "Выключить"
+
+msgid "Switch Off All"
+msgstr "Выключить все"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "View"
+msgstr "Посмотреть"
+
+msgid "Update price"
+msgstr "Обновить цену"
+
+msgid "Price monitoring"
+msgstr "Мониторинг цен"
+
+msgid "Change"
+msgstr "Изменить"
+
+msgid "Product name"
+msgstr "Название товара"
+
+msgid "Products duplicate"
+msgstr "Дубликаты товаров"
+
+msgid "Products"
+msgstr "Товаров"
+
+msgid "Error while saving data"
+msgstr "Ошибка во время сохранения данных"
+
+msgid "trash"
+msgstr "Товар в корзине"
+
+msgid "published"
+msgstr "Товар опубликован"
+
+msgid "pending"
+msgstr "Товар на утверждении"
+
+msgid "draft"
+msgstr "Товар выключен"
+
+msgid "Group selected"
+msgstr "Сгруппировать выбранные"
+
+msgid "Ungroup"
+msgstr "Разгруппировать"
+
+msgid "Ungrouped"
+msgstr "Разгруппированные"
+
+msgid "Grouped"
+msgstr "Сгруппированные"
+
+msgid "All"
+msgstr "Все"
+
+msgid "- Select group type -"
+msgstr "Выберите тип группировки"
+
+msgid "View in trash"
+msgstr "Посмотреть в корзине"
+
+msgid "Fill products content"
+msgstr "Наполнение товаров"
+
+msgid "Unfilled"
+msgstr "Незаполненные"
+
+msgid "Filled"
+msgstr "Заполненные"
+
+msgid "Drafted"
+msgstr "Выключенные"
+
+msgid "Published"
+msgstr "Включенные"
+
+msgid "Choosing a product from Yandex Market"
+msgstr "Выбор товара из Яндекс Маркета"
+
+msgid "trash_short"
+msgstr "Удален"
+
+msgid "publish_short"
+msgstr "Опубликован"
+
+msgid "pending_short"
+msgstr "На утверждении"
+
+msgid "draft_short"
+msgstr "Выключен"
+
+msgid "Forced"
+msgstr "Принудительно"
+
+msgid "Automatically"
+msgstr "Автоматически"
+
+msgid "Cron upadte interval (minutes)"
+msgstr "Интервал Крона (в минутах)"
+
+msgid "Yandex Market feed auto update via Cron"
+msgstr "Обновить фид Яндекс маркета через Крон"
+
+msgid "Yandex Market"
+msgstr "Яндекс Маркет"
+
+msgid "Update Yandex Market feed manually"
+msgstr "Обновить фид Яндекс маркета вручную"
+
+msgid "YML feed prices updated successfully"
+msgstr "Яндекс фид обновлен успешно."
+
+msgid "Update Images Alt attributes"
+msgstr "Обновить Alt атрибуты изображений вручную"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Images Alt updated successfully"
+msgstr "Alt атрибуты изображений обновлены успешно."
+
+msgid "Updated products thumb_id = %s, canceled = %s"
+msgstr "Вставлены ID изображений %s товарам. Пропущены %s товаров."
