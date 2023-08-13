@@ -32,6 +32,8 @@ function electro_enqueue_scripts(){
 function electro_home_v2_hook_control(){
 	Actions::electro_home_v2_hook_control();
 }
+#function woocommerce_result_count() {}
+#function woocommerce_catalog_ordering() {}
 /*
 function electro_product_cards_carousel($section_args, $carousel_args){
 	Actions::electro_product_cards_carousel($section_args, $carousel_args);

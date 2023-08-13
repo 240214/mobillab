@@ -601,6 +601,8 @@ ul.products[data-view="list-view"].columns-8 > li.product .product-inner {paddin
 	#tab-specification dl + div {left: calc(30% + 37px);}
 }
 
+.shop-control-bar + .woocommerce-ordering,
+.shop-control-bar + .woocommerce-ordering + .woocommerce-result-count {display: none !important;}
 
 /* == RESPONSIVE LAYOUTS == */
 @media (max-width: 480px) {
